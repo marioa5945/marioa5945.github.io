@@ -1,1 +1,0 @@
-(self.webpackChunkmarioa=self.webpackChunkmarioa||[]).push([[894],{4894:function(e,a,t){"use strict";t.r(a);var n=t(3804),l=t.n(n);a.default=function(){return l().createElement("div",{className:"status"},l().createElement("h1",null,"404"),l().createElement("h3",null,"File not found"),l().createElement("a",{href:"/"},"black"))}}}]);
